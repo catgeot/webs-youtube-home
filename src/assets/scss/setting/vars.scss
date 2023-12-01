@@ -2,19 +2,23 @@
     --mainfont-nanum: "nanumSquareNeo";
     --mainfont-nexon: "nexonLv1";
   
-    --black: #107980;
-    --black100: #76A1A7;
-    --black200: #EDE1CF;
-    --black300: #D9C5BC;
-    --black400: #B6ADAF;
-    --black500: #a4bcd4;
+    --back: #107980;
+    --back100: #76A1A7;
+    --back200: #EDE1CF;
+    --back300: #D9C5BC;
+    --back400: #B6ADAF;
+    --back500: #a4bcd4;
     
-    --white: #fff;
-    --white100: #fff;
-    --white200: #fff;
-    --white300: #fff;
-    --white400: #fff;
-    --white500: #fff;
+    --backAlpha100: #76a1a700;
+    
+    --color: #fff;
+    --color100: #E58E00;
+    --color200: #FFBB02;
+    --color300: #27AFC9;
+    --color400: #B0A6A5;
+    --color500: #B0A6A5;
+
+    --red: #fe0606;
     
     // 폰트 셋팅
     font-family: var(--mainfont-nanum), var(--mainfont-nexon);
